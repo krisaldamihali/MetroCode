@@ -1,0 +1,17 @@
+
+Ne Python kemi disa tipe baze te dhenash:
+
+    1. Integer
+        -> Numrat e plote (PSH: 1, -10, 7 etj.)
+
+    2. Float
+        -> Numrat me presje (3.14)
+    
+    4. String
+        -> Grup karakteresh/ fjale apo tekst("Une kam nje shtepi ne fshat" apo "macja")
+
+    4.  Boolean
+        -> E vertete ose e gabuar (True ose False)
+
+    extra. NoneType
+        -> Bosh/ pa vlere (None)
