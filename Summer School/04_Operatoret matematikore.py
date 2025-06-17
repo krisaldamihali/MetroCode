@@ -25,6 +25,10 @@ print("Prodhimi:", prodhimi)
 pjesetimi = numri2 / numri1
 print("Pjesetimi:", pjesetimi)
 
+mbetja = numri1 % numri2
 print("Mbetja:", numri1 % numri2)
+print("Mbetja:", mbetja)
 
+fuqia = numri1 ** numri2
 print("Fuqia:", numri1 ** numri2)
+print("Fuqia:", fuqia)
