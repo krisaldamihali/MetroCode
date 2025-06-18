@@ -9,7 +9,7 @@ for i in range(5):
     print("Hello!")
 
 # Ushtrim 3
-# Shto të gjitha numrat nga 1 deri në 5:
+# Mblidh të gjitha numrat nga 1 deri në 5:
 total = 0
 for i in range(1, 6):
     total = total + i
