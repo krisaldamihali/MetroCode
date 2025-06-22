@@ -32,3 +32,18 @@ print("Mbetja:", mbetja)
 fuqia = numri1 ** numri2
 print("Fuqia:", numri1 ** numri2)
 print("Fuqia:", fuqia)
+
+heresi = numri2 // numri1
+print("Fuqia:", heresi)
+
+numri1 = 5
+numri1 += 3  # i shton 3 variablës me emrin numri1
+print(numri1)
+
+numri1 -= 2  # i zbret 2 variablës me emrin numri1
+print(numri1)
+
+numri1 *= 2  # e shumëzon me 2 variablën me emrin numri1
+print(numri1)
+
+''' Të njejtën logjikë mund të ndjekim dhe për veprime të tjera si pjesëtimi, fuqia apo herësi '''
